@@ -33,8 +33,6 @@ Pthera Dun, 19,203
 
 Dun was a cleric of [[The Gods#Fend - God of Growth|Fend]] who is notable for her sizeable following as a teacher and her significant accomplishments during the *Frest lal Kahbir.*
 
-
-
 ### Patronage
 Patronage, in contrast to worship, is a *state* of connection with a deity, often achieved through worship, bargaining, pacts, or simple convenience.  Patronage is much rarer than worship, and some deities for whom worship is common almost never grant patronage (e.g. [[The Gods#Part|Part]]), or *vice versa* (e.g. [[The Gods#Balk|Balk]]).  It is also commonly assumed, due to the rarity of patronage, that it somehow conveys a status in relation to clergy.  This is generally untrue, and in fact, the reverse is often true.  In traditions with rigid clerical practices, those that have received patronage are typically considered outsiders.  
 
