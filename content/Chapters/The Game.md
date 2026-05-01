@@ -1,0 +1,21 @@
+---
+tags:
+  - stories/prejoman
+  - stories/forothers
+---
+## Overview
+Here begins the more player focused sections of the Khulasad.  The trappings of a Tarjali academic field reference will largely be discarded, and the effort from hereon out will be providing an effective quick reference for purposes of actually playing a tabletop.  
+
+The game will be running in Pathfinder, specifically whatever the Pathfinder rules included in the d20PFSRD are.  The d20PFSRD is accessible at https://www.d20pfsrd.com/.  Wherever the rules I homebrew disagree with the d20PFSRD, I will probably default to either my rules or whatever is cooler.  The only areas where I will include totally novel content are in *The Classes*, *The Spells*, *The Feats*, and *The Monsters*.  For all other mechanical matters, the d20PFSRD will be the reference.  
+
+d20PFSRD is notoriously verbose.  Its easy to get lost in the complexity, and they don't make it easier by having the words "core", "base", and "standard" used with abandon to refer to different things.  Start with the **Core and Base Classes** and the **Core and Featured Races** and then work from there.  I am not adding any additional races unless requested.  *I am also not married to any of the racial lore in Pathfinder.  Find a cool race and see a place it could fit into the story?  Let me know and we can easily retcon the Pathfinder lore and make this world more interesting.*
+
+Many of the Hybrid and Occult classes are awesome too, but again, its easy to get lost.  Please don't worry too much about combat balance, I will adjust encounters to make the game fun and to challenge the party.  3rd-party rules are on a case-by-case basis because some of them are broken as fuck.  Ask me if you have questions!  
+
+The *goal* of this setting is to provide a totally interoperable pathfinder setting *mechanically*, but not in terms of *lore*.  This means that despite my best efforts to create a setting with interesting deities, notable historical figures, new balanced classes, and dastardly villains, there will inevitably be hundreds of things from the established Pathfinder rules which are not-at-all lore compliant in this setting.  The spell, *Janni's Jaunt*, for example, will be named oddly without a lore compliant legendary mage named Janni.  Well, I simply don't have the time to rewrite an *entire* setting, so we'll all have to suspend our disbelief when this comes up.  By all means, feel free to bring it up and test my improvisational skills as I try to cram something into the lore.
+
+Finally, my general house rules apply:
+- **Rule of Cool**: I'll always try to let you do something if its sick as hell.  I will go out of my way to reward creativity unless it is explicitly out of the scope of some ability, or would be game breaking (i.e. it'll leave me with fuckall to do in the session).
+- **Anyone Can Be Anything**: DND-based tabletop settings are notorious for having some, uh, dated ideas about who and what can do things.  You want to be a lawful-good gnoll? Cool with me.  I'll do my best to make sure there's little friction based on race, gender, etc.  If you want to play a race or creature that, say, doesn't have eyes or is 30 feet tall, that might cause some problems, but you're welcome to do it.  This is partly why I am not adding additional races.
+- **Combat Counts**: I try to make combats *mean* something, which, in turn, means everything else has to mean more, since most of the rules in Pathfinder are about combat.  Thaja is by no means a peaceful world, most of its citizens are equipped for violence at any given time, but this doesn't mean violence between people is common.  There will always be consequences for violence.  
+- **Roleplay Above Rolls**: Roleplay is awesome, and super rewarding!  I try to let us *tell* the story, and let the dice *spin* that story.  If you're trying to lie to someone, lie first, *then we roll*.  If you tell a great lie at the table, the DC for that roll will be adjusted lower.  I find this helps to tell the best story, while still allowing for the dice to fuck stuff up.  Its funny when you have a great lie and roll a 1, its not funny when you tell a great lie at the table and then I penalize you for not rolling above a 25.  
