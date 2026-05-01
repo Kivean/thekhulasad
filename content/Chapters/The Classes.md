@@ -94,7 +94,7 @@ A Sahida has no race or class, and anyone can become Sahida, provided they under
 ###### Weapon and Armor Proficiency
 Sahida are proficient with all simple weapons and light armor, but not with shields.  It is very uncommon to see one without the Mahatalli or Saj.
 ###### Spells
-A Sahida can cast a small number of spells drawn (typically) from the druid or [[Stories/Pre-Joman Tabletop Setting/Chapters/Magic#Aïnhaz|aïnhaz]] spell lists.  Wizard or cleric spells are also in play if you find ones which you can justify from a lore or story perspective.  Sahida typically don't learn psychic spells but could.  To learn a spell, a Sahida must have a Wis score equal to at least 10 + the spell level.  The DC for a saving throw against a Sahida spell is 10 + spell level + Wis mod.  A Sahida does not receive bonus spells for having high wisdom.  A Sahida can cast any spell they know as long as they have a spell slot.
+A Sahida can cast a small number of spells drawn (typically) from the druid or [[The Magic#Aïnhaz|aïnhaz]] spell lists.  Wizard or cleric spells are also in play if you find ones which you can justify from a lore or story perspective.  Sahida typically don't learn psychic spells but could.  To learn a spell, a Sahida must have a Wis score equal to at least 10 + the spell level.  The DC for a saving throw against a Sahida spell is 10 + spell level + Wis mod.  A Sahida does not receive bonus spells for having high wisdom.  A Sahida can cast any spell they know as long as they have a spell slot.
 ###### Bonus Languages
 In addition to Low Common, a Sahida knows Verj and High Common, and may pick up to three other languages to be proficient in.
 ###### The Mahatalli and the Saj
@@ -111,7 +111,7 @@ Neither the Saj or Mahatalli can be repaired by normal smiths or artisans, and c
 The Saj is a collapsible staff of a light alloy, typically two-heads taller than its user at max length, or roughly forearm length at its smallest. In melee, the saj is essentially a quarterstaff and deals 1d8 damage.  At range, the end of the saj blossoms and is capable of unleashing beams of energy which also deals 1d8 damage.  A non-Sahida may wield a saj as a quarterstaff, and may use it as a ranged weapon if shown how, but does not have access to Activations or Vesjethra.  It is possible to find or be bequeathed a *saj* from another Sahida, in which case after a period of attunement, one may receive the *vesjethras* of the prior user.  There are also some rare, modified *saja* known to exist.
 
 **The Mahatalli**
-The Mahatalli is a bodysuit of woven metal which leaves the hands, feet, and head free.  It is treated as light armor.  Much like the *saj,* a mahatalli may be found, inherited, or be bequeathed, and typically after a period of attunement, the new user receives the *vesjethras* of the prior user.  The mahatalli is a comfortable, close garment designed for constant wear.  Under normal circumstances, the mahatalli does not confer immunity to diseases or poisons, but constant wear extends the life of the user significantly.
+The Mahatalli is a bodysuit of woven metal which leaves the hands, feet, and head free.  It is treated as light armor (armor bonus +3, max dex +5).  Much like the *saj,* a mahatalli may be found, inherited, or be bequeathed, and typically after a period of attunement, the new user receives the *vesjethras* of the prior user.  The mahatalli is a comfortable, close garment designed for constant wear.  Under normal circumstances, the mahatalli does not confer immunity to diseases or poisons, but constant wear extends the life of the user significantly.
 ###### Sahida Respect and Cunning
 The Sahida are typically well respected wherever they travel.  You are always provided fair accommodations where possible.  You gain +2/4 lvl on checks made to gain information, request supplies or assistance, interrogate prisoners, mediate disputes, etc. (you can always sell me on it).  
 Conversely, acting outside the Sahida mandates (i.e. failing to mediate impartially, harming innocents, destroying historical records, etc.) is highly frowned upon.  Sahida who stray from their mission are often confronted by tribunals of other Sahida.  It is speculated by outsiders that the Saj or Mahatalli themselves "tell" on their wielders should they falter.
@@ -136,7 +136,7 @@ The Sahida can activate the Mahatalli and the Saj to provided bonuses, *as per* 
 
 *Destruction:* The Sahida can choose war, when pushed to it. Gain a +1 bonus on all weapon damage rolls. This bonus increases by +1 for every three Sahida levels.
 
-*Healing:* In exceptional circumstances, the preservation abilities of the Mahatalli may be accelerated: gain fast healing 1. Heal 1 point of damage each round as long as you are alive and the judgment lasts. The amount of healing increases by 1 point for every three Sahida levels.
+*Healing:* In exceptional circumstances, the preservation abilities of the Mahatalli may be accelerated: gain fast healing 1. Heal 1 point of damage each round as long as you are alive and the judgment lasts. The amount of healing increases by 1 point for every three Sahida levels. Past level 10, this effect cures diseases.
 
 *Justice:* When justice must be achieved by violence, precision is the instrument of mercy. Gain a +1 bonus on all attack rolls. This bonus increases by +1 for every five Sahida levels.
 
@@ -144,7 +144,7 @@ The Sahida can activate the Mahatalli and the Saj to provided bonuses, *as per* 
 
 *Resiliency:* When the trials of the *Frest lal Kahbir* fell upon the world, the Sahida had to stand.  Gain DR 1. This DR increases by 1 for every five Sahida levels. 
 
-*Resistance:* Exceptional foes must be faced by exceptional Sahida, gain 2 points of energy resistance against one energy type (acid, cold, electricity, fire, or sonic) chosen when the judgment is declared. The protection increases by 2 for every three Sahida levels.
+*Resistance:* Exceptional foes must be faced by exceptional Sahida, gain 2 points of energy resistance against one energy type (acid, cold, electricity, fire, or sonic) chosen when the judgment is declared. The protection increases by 2 for every three Sahida levels. Past level 10, this effect cures poisons.
 ###### Vesjetha
 The *Vesjetha* are the grand mysteries imbued into the mahatalli and the saj by the founding Sahida.  Not all vesjetha are created equally, or are as easy to discover.  When a Sahida discovers the method to activate a vesjetha, their equipment shares with them a message from that founding Sahida, often a short piece of poetry or an aphorism, which are kept as secrets from all except other Sahida who know them.  It is said a Sahida simply knows if another has received the wisdom, but the mechanism of this is unknown.  
 
@@ -237,7 +237,7 @@ Probably the least straightforward of the current deities.  Bonuses on anything 
 If you want to play a warlock of Part, lets talk.
 
 ### Bosker
-A hybrid druid/ranger/fighter thematically, but without the summons/shape changing focus (so distinct from the hunter). At low levels, the bosker is perhaps similar to the Sahida, a martial class with solid equipment and connections to the world.  As Boskers get older and more experienced (and boskers get *very* old), they typically become deeply practiced in the use of [[Stories/Pre-Joman Tabletop Setting/Chapters/Magic#Aïnhaz|aïnhaz]] to cast immense spells.  Play a bosker if you want to begin the adventure grounded and practical and move on to become a powerful spellcaster with unique flexibility.  You also get lvl 9 spell access before anyone else.  Also for those that just wish they had a forestry degree.
+A hybrid druid/ranger/fighter thematically, but without the summons/shape changing focus (so distinct from the hunter). At low levels, the bosker is perhaps similar to the Sahida, a martial class with solid equipment and connections to the world.  As Boskers get older and more experienced (and boskers get *very* old), they typically become deeply practiced in the use of [[The Magic#Aïnhaz|aïnhaz]] to cast immense spells.  Play a bosker if you want to begin the adventure grounded and practical and move on to become a powerful spellcaster with unique flexibility.  You also get lvl 9 spell access before anyone else.  Also for those that just wish they had a forestry degree.
 
 The [[The People#Fad e Bosks|Fad e Bosks]] are a standardized, empirical order built on an esoteric, 25,000 year old tradition.  Most boskers (as they're known by nearly everyone) never leave an *Oerleverbosk*, the groves of special trees cultivated specifically to be cut into slabs and annotated with world histories, allowing for the distribution of a large historical record.  A bosker who leaves their grove is typically transporting *rekordplaats* (a job requiring a quarto of boskers) or is alone on a rare journey  Boskers of all races live far longer than others. Popular legend has many explanations, but the reality is that the carefully constructed groves and rights which preserve the trees also preserve their keepers.
 #### Stats + Tables
@@ -320,7 +320,7 @@ The [[The People#Fad e Bosks|Fad e Bosks]] are a standardized, empirical order b
 ###### Weapon and Armor Proficiency
 Boskers are proficient with all simple weapons and light and medium armor, but not shields.  They do, of course, have proficiency with the *boarj* as well.
 ###### Spells
-Boskers cast spells from the [[Stories/Pre-Joman Tabletop Setting/Chapters/Magic#Aïnhaz|aïnhaz]] spell list (they cast "city" aïnhaz spells with disadvantage) and the druid and ranger lists.  As the ainhaz spells work a little differently, the "spells known" table refers only to druid and ranger spells.  There are also a limited number of divine spells available from Thaja herself to some boskers.
+Boskers cast spells from the [[The Magic#Aïnhaz|aïnhaz]] spell list (they cast "city" aïnhaz spells with disadvantage) and the druid and ranger lists.  As the ainhaz spells work a little differently, the "spells known" table refers only to druid and ranger spells.  There are also a limited number of divine spells available from Thaja herself to some boskers.
 
 Boskers have an unusual relationship with magic.  They come to magic late and delve deeply, eschewing the common rigors of low level magic as their ability to understand and feel aïnhaz strengthens far beyond anyone else.  Along with their mastery of aïnhaz spellcasting, they also use their experience to casually deploy reserves of agïs which shame nearly all other spellcasters.  In a straight up fight, a sorcerer will usually prevail against a bosker, but boskers use their familiarity with the land and aïnhaz to ensure the ground is level under their feet, not their enemy's.  
 
@@ -370,15 +370,19 @@ The Thousanders are responsible for maintaining the intricate magical wards that
 Most wayfaring boskers rely on the *boarj*, a sturdy and well-built staff equipped with a magically-powered core drill for assessing trees.  In combat, the *boarj* is treated as a quarterstaff (dealing d8 damage). If used to attack an inanimate object, the *boarj* drill can be used and is treated as *adamantine* for purposes of damage reduction.  Within reason, and given time, the *boarj* can defeat most natural materials up to 4 feet deep.  This does not necessarily mean a single strike can break a boulder in half, but there isn't much which can stand in the way of a dedicated bosker with time on their hands.
 
 **Cull**
-The core drill of the *boarj* is sharp and strong.  When deployed against a foe, it can be a brutal weapon
+The core drill of the *boarj* is sharp and strong.  When deployed against a foe, it can be a brutal weapon. 
+
+Sorta like sneak attack but versus disabled opponents.  Leveling up gives additional damage die.
+
 Merciless cull guarantees crit.
 
 **Tend**
-Empowered tend
+Tend is a healing ability similar to a paladin's lay on hands, for light duty healing in combat.  Leveling up increases healing and gives more charges.
+
+Empowered tend moves tend from a single target heal to a multitarget heal.
 
 ###### Bosk Access
-
-
+Much like the Sahida, boskers have access to bosks where they can receive accommodations and healing.  Unlike the Sahida, they are far less likely to receive 
 
 ### Wurder
 Wurders are rich and well equipped. Wurder is necessarily a multiclass, wherein you skip some levels in a class for items that grant fantastical abilities. In line with the wurders view that nearly everything of value has already been done better, there are quite a few smart wurders, but few among them are powerful wizards, preferring instead to use powerful artifacts or use their vast resources to copy scrolls in great number.
