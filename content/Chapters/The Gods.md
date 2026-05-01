@@ -31,7 +31,9 @@ It is a common misconception that a cleric's personal *agïs* is the reservoir f
 *"One never feels the power of spellcasting more than in true resurrection.  When you let your spirit quiet, allow your heart to touch a fallen soul in the immaterium, there is an immediate, exultant urge to hold on, to grip the very stuff of a beloved friend and never let go. Instead, all one needs to do is gently cradle it, smile, and humbly ask for it to stay with you for just a moment.  Then it comes, a coil of the firmament of the gods themselves, a power which surrounds you and dissembles the fabric of all that lies just beyond your skin.  It smiles to you, you smile to it.  All you need to do is open your eyes to find it done, a soul returned to you, no more effort than it takes to fall asleep."*
 Pthera Dun, 19,203
 
-Dun was a cleric of [[The Gods#Fend - God of Growth|Fend]] who is notable, beyond her sizeable following as a teacher and her significant accomplishments during the *Frest lal Kahbir*, for being 
+Dun was a cleric of [[The Gods#Fend - God of Growth|Fend]] who is notable for her sizeable following as a teacher and her significant accomplishments during the *Frest lal Kahbir.*
+
+
 
 ### Patronage
 Patronage, in contrast to worship, is a *state* of connection with a deity, often achieved through worship, bargaining, pacts, or simple convenience.  Patronage is much rarer than worship, and some deities for whom worship is common almost never grant patronage (e.g. [[The Gods#Part|Part]]), or *vice versa* (e.g. [[The Gods#Balk|Balk]]).  It is also commonly assumed, due to the rarity of patronage, that it somehow conveys a status in relation to clergy.  This is generally untrue, and in fact, the reverse is often true.  In traditions with rigid clerical practices, those that have received patronage are typically considered outsiders.  
