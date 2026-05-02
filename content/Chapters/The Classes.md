@@ -248,28 +248,28 @@ The [[The People#Fad e Bosks|Fad e Bosks]] are a standardized, empirical order b
 **CLASS SKILLS:** ugh i'll do these later
 ###### Ability Table
 
-| Lvl | BAB  | Fort | Ref | Will | Special                                   |
-| --- | ---- | ---- | --- | ---- | ----------------------------------------- |
-| 1   | 0    | 2    | 0   | 2    | Generation 1, Bosk Access, Boarj and Glej |
-| 2   | 1    | 3    | 0   | 3    | Cull 1                                    |
-| 3   | 2    | 3    | 1   | 3    | Tend 1                                    |
-| 4   | 3    | 4    | 1   | 4    |                                           |
-| 5   | 3    | 4    | 1   | 4    | Cull 2, Generation 2                      |
-| 6   | 4    | 5    | 2   | 5    |                                           |
-| 7   | 5    | 5    | 2   | 5    | Tend 2                                    |
-| 8   | 6/1  | 6    | 2   | 6    | Cull 3                                    |
-| 9   | 6/1  | 6    | 3   | 6    |                                           |
-| 10  | 7/2  | 7    | 3   | 7    | Generation 3                              |
-| 11  | 8/3  | 7    | 3   | 7    | Cull 4, Tend 3                            |
-| 12  | 9/4  | 8    | 4   | 8    |                                           |
-| 13  | 9/4  | 8    | 4   | 8    |                                           |
-| 14  | 10/5 | 9    | 4   | 9    | Cull 5                                    |
-| 15  | 11/6 | 9    | 5   | 9    | Tend 4, Generation 4                      |
-| 16  | 12/7 | 10   | 5   | 10   |                                           |
-| 17  | 12/7 | 10   | 5   | 10   | Merciless Cull                            |
-| 18  | 12/7 | 11   | 6   | 11   |                                           |
-| 19  | 12/7 | 11   | 6   | 11   | Empowered Tend                            |
-| 20  | 13/8 | 12   | 6   | 12   | Elder Lore                                |
+| Lvl | BAB  | Fort | Ref | Will | Special                             |
+| --- | ---- | ---- | --- | ---- | ----------------------------------- |
+| 1   | 0    | 2    | 0   | 2    | Tier 1, Bosk Access, Boarj and Glej |
+| 2   | 1    | 3    | 0   | 3    | Cull 1                              |
+| 3   | 2    | 3    | 1   | 3    | Tend 1                              |
+| 4   | 3    | 4    | 1   | 4    |                                     |
+| 5   | 3    | 4    | 1   | 4    | Cull 2, Tier 2                      |
+| 6   | 4    | 5    | 2   | 5    |                                     |
+| 7   | 5    | 5    | 2   | 5    | Tend 2                              |
+| 8   | 6/1  | 6    | 2   | 6    | Cull 3                              |
+| 9   | 6/1  | 6    | 3   | 6    |                                     |
+| 10  | 7/2  | 7    | 3   | 7    | Tier 3                              |
+| 11  | 8/3  | 7    | 3   | 7    | Cull 4, Tend 3                      |
+| 12  | 9/4  | 8    | 4   | 8    |                                     |
+| 13  | 9/4  | 8    | 4   | 8    |                                     |
+| 14  | 10/5 | 9    | 4   | 9    | Cull 5                              |
+| 15  | 11/6 | 9    | 5   | 9    | Tend 4, Tier 4                      |
+| 16  | 12/7 | 10   | 5   | 10   |                                     |
+| 17  | 12/7 | 10   | 5   | 10   | Merciless Cull                      |
+| 18  | 12/7 | 11   | 6   | 11   |                                     |
+| 19  | 12/7 | 11   | 6   | 11   | Empowered Tend                      |
+| 20  | 13/8 | 12   | 6   | 12   | Elder Lore                          |
 ###### Spell Table
 | Lvl | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -331,37 +331,37 @@ Bosks are typically mostly closed environments, and by [[The People#The Halliger
 **Deistiches**
 The most common Generation of bosker, both by number and appearance outside of the bosks.  Deistiches (Dailies) are used to the outside world, and often spend time travelling to assess trees, deliver *rekordplaats,* serve the local town or community, and hone their skills in aïnhaz.  The Dailies are identified by their "conventional" uniform of sturdy travelling clothes, although other boskers recognize them by their collar insignia.  Despite the name, most dailies don't actually leave the grove every day, and they are permitted to be gone from the grove indefinitely if on business.
 
-*Generation 1:* You spend your days walking and doing forestry.  Gain +2 on nature and survival checks and natural terrain features don't change your movement speed.
-*Generation 2:* You're in touch with the wilds and have seen all their faces.  Anyone trying to track your movement through the wilds has disadvantage on the check and you have +4 on saving throws against "nature" opponents (sell me on it). Gain a teamwork feat.
-*Generation 3:* Truly one with nature.  Gain immunity to poison and disease.  
-*Generation 4:* You have the hang of this spellcasting thing and no longer have disadvantage on "city" aïnhaz spells.  Gain a teamwork feat.
+*Tier 1:* You spend your days walking and doing forestry.  Gain +2 on nature and survival checks and natural terrain features don't change your movement speed.
+*Tier 2:* You're in touch with the wilds and have seen all their faces.  Anyone trying to track your movement through the wilds has disadvantage on the check and you have +4 on saving throws against "nature" opponents (sell me on it). Gain a teamwork feat.
+*Tier 3:* Truly one with nature.  Gain immunity to poison and disease.  
+*Tier 4:* You have the hang of this spellcasting thing and no longer have disadvantage on "city" aïnhaz spells.  Gain a teamwork feat.
 *Elder Lore:* You have just been doing this longer than anyone else and are flat out better at it.  5/day you can choose any dice result and double it.  You may only double the result of *one* die, and you cannot "force" criticals.  
 
 **Dessenia**
 Dessenia (Tenners) are commonly the recordkeepers of a bosk, and spend their days processing *rekordplaats,* cross-referencing history, and taking detailed measurements of the *plaats* themselves to assess historical trends.  Tenners are often seen in *rekordplaat* convoys and routinely switch groves to help align histories.  Perhaps strangely, the Tenners are the most martial of the boskers, and break from their scribing and sawing to learn the intricacies of staff combat.  They *really* don't want freshmen Tenners dying on their first trip, so the first 10 years are usually heavy on the combat, light on the scribing.  Tenners are recognized by their deep green uniforms, either scribing robes or long padded armor.
 
-*Generation 1:* Wake up, study, write, fight, repeat.  Gain +2 on knowledge checks.  Get a bonus feat.
-*Generation 2:* Seasoned caravan guard, budding scholar.  When camping, you cannot be surprised and your Cull and Tend dice become d10 instead of d8.  Gain proficiency in two new skills, and your bonus to history checks increases to +4.
-*Generation 3:* Nothing surprises you anymore.  Get +4 to initiative rolls and get a bonus feat.
-*Generation 4:* Lore master.  You make knowledge checks with advantage.  Your cull and tend dice becomes d12.  You have a +4 bonus to spells that would befuddle you
+*Tier 1:* Wake up, study, write, fight, repeat.  Gain +2 on knowledge checks.  Get a bonus feat.
+*Tier 2:* Seasoned caravan guard, budding scholar.  When camping, you cannot be surprised and your Cull and Tend dice become d10 instead of d8.  Gain proficiency in two new skills, and your bonus to history checks increases to +4.
+*Tier 3:* Nothing surprises you anymore.  Get +4 to initiative rolls and get a bonus feat.
+*Tier 4:* Lore master.  You make knowledge checks with advantage.  Your cull and tend dice becomes d12.  You have a +4 bonus to spells that would befuddle you
 *Elder Lore:* You're at home in every grove and every road.  No natural phenomenon can break spell concentration, and you have advantage on all concentration rolls.  You and your party travel twice as fast overland.
 
 **Leuwens**
 The Leuwens (Hundreders) are the tree keepers.  While the Deistiches investigate trees in the wild, the Hundreders are charged with the sacred duty of preserving the grand trees in the bosk itself.  Natural healers and herbalists. It is rare to see a Leuwen out of the grove unless there is important business with the trees *or* someone is in need of healing in the local community.  Then, Leuwens are conveyed out in a *rydtuch* to provide healing.  As Leuwens are often kind and personable, they typically get quite a lot of "forbidden" exposure to the outside world.  This may be the reason why Leuwen have the least stringent demands surrounding contributing to the histories, but the boskers will not confirm this.  Other boskers recognize them by their collar insignia.
 
-*Generation 1:* Get Tend 1 immediately, and get Tend 2 at level 3, and so on until Empowered Tend at levl 15.  You receive a +2 to checks made to diagnose and heal diseases, in both people and trees.  After all, the grove must preserve its keepers. 
-*Generation 2:* Mastery comes slowly but pays its dividends.  You lose the ability to Cull, but your Tend dice becomes d10 and you gain a teamwork feat.
-*Generation 3:*  The Hundreders are nearly always chosen by Thaja to receive her gifts.  Receive a vision from Thaja and gain access to divine healing spells.  Gain immunity to poison and disease.
-*Generation 4:* No one knows trees better than you.  Enemies have disadvantage against your "forest" aïnhaz spells, gain a teamwork feat.  Receive a vision from Thaja.
+*Tier 1:* Get Tend 1 immediately, and get Tend 2 at level 3, and so on until Empowered Tend at levl 15.  You receive a +2 to checks made to diagnose and heal diseases, in both people and trees.  After all, the grove must preserve its keepers. 
+*Tier 2:* Mastery comes slowly but pays its dividends.  You lose the ability to Cull, but your Tend dice becomes d10 and you gain a teamwork feat.
+*Tier 3:*  The Hundreders are nearly always chosen by Thaja to receive her gifts.  Receive a vision from Thaja and gain access to divine healing spells.  Gain immunity to poison and disease.
+*Tier 4:* No one knows trees better than you.  Enemies have disadvantage against your "forest" aïnhaz spells, gain a teamwork feat.  Receive a vision from Thaja.
 *Elder Lore:* An elder Hundreder knows the the flow of life better than all but the most skills clerics and druids.  You gain Elder Lore at level 19 instead of 20.  When you heal by any means, you heal the maximum amount and may cost True Resurrection once per day without expending a spell slot.
 
 **Millennia**
 The Millennia (Thousanders) are responsible for maintaining the intricate magical wards that preserve the trees and their keepers.  While the [[The People#Fad e Bosks|Fad e Bosks]] are only a few thousand years old, extant bosks or those reclaimed during or after [[The World#Frest lal Kahbir (Year 12,642 to 20,389)|Frest lal Kahbir]] can be tens of thousands of years old.  These old wisdoms are not learned quickly.  Most Thousanders live for their first thousand in a bosk, and then leave to spend the rest of their days travelling, contextualizing histories, sharing their knowledge, and lending their skills to local causes.  For this reason, it is not actually that uncommon to meet Millennia, and they are typically recognized by their "old fashioned" apparel.  Even the habits of the bosks change.  Only naturally long-lived races are likely to see more than one thousand-year stint in a bosk.  
 
-*Generation 1:* The magical training of the Thousanders will give you a leg up... someday.  It will also shift your thinking on when and where magic ought to be used. Move the entire bosker spell table up one (so you get lvl 0 spells at lvl 3, and lvl 1 at lvl 6, etc.).  Also, subtract 1 from every slot unless that would make it 0, and 2 from every 5 and 6 (so 2 becomes 1, 3->2, 4->3, 5->3, 6->4).
-*Generation 2:* You learn slowly but deeply.  Gain +4 on knowledge checks related to magic or magical topics.  If you Take 10, 15, or 20 on checks not related to combat or thievery, add +5 to these rolls.
-*Generation 3:* 
-*Generation 4:* 
+*Tier 1:* The magical training of the Thousanders will give you a leg up... someday.  It will also shift your thinking on when and where magic ought to be used. Move the entire bosker spell table up one (so you get lvl 0 spells at lvl 3, and lvl 1 at lvl 6, etc.).  Also, subtract 1 from every slot unless that would make it 0, and 2 from every 5 and 6 (so 2 becomes 1, 3->2, 4->3, 5->3, 6->4).
+*Tier 2:* You learn slowly but deeply.  Gain +4 on knowledge checks related to magic or magical topics.  If you Take 10, 15, or 20 on checks not related to combat or thievery, add +5 to these rolls.
+*Tier 3:* 
+*Tier 4:* 
 *Elder Lore:* 
 
 ###### The Boarj and the Gles

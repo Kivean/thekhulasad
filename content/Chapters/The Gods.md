@@ -87,6 +87,7 @@ NG
 CG
 Very loose definition of passageways, essentially anything that provides forward movement through something else.  Progress in the face of long odds, tunneling, living in confines, he's a weird one.  Also goes by he for some reason.
 ### Rewla Ma - God of Reasoning
+TN
 The untier of knots
 ### Proprius - God of Unbending
 LNs
