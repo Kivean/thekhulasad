@@ -15,7 +15,7 @@ The vast majority of Thajan landmasses are chains of large islands connected by 
 
 ## The Region
 
-Mesa: Tavilla (Uqasaq: Aviaru runnairmut, lit: "*barrier to entry*", after the longstanding rivalry between the steppe peoples and the Tarjali.  The name was coined before it was understood that the Tarjal and the steppe peoples were not one in the same. Jazak: Stovla)
+Mesa: Tavilla (Uqasaq: Aviaru runnairmut, lit: "*barrier to entry*", after the longstanding rivalry between the steppe peoples and the Tarjali.  The name was coined before it was understood that the Tarjal and the steppe peoples were not one and the same. Jazak: Stovla)
 
 Steppeland: Ars'Stipra (Uqasaq: Paalaad, lit: "*bad land*", Jazak: Rovlan, lit: "*homeland*")
 
