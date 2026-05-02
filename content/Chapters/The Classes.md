@@ -328,10 +328,8 @@ Boskers are one of the few groups who have learned how to use the aïnhaz of a r
 ###### Generation
 Bosks are typically mostly closed environments, and by [[The People#The Halliger Remnants|Halliger]] decree, this is done to help generate an objective historical record.  As such, mixing within boskers and the outside world is strictly controlled, with dedicated *Generations* of boskers who are only allowed to leave the grove at certain intervals, wherein they learn of the outside world and contextualize the records of the bosks and disseminate historical knowledge and perspective.  All boskers are sorted into a *Generation* which defines their life and skills.  Not all *Generations* are populated equally, but they are all treated equally within the bosker hierarchy.  Exceptions to Generation rules are made on occasion, especially when high-ranking boskers have demanding duties.  You may pick only one Generation.
 
-GRAYSON PUT IN THE HIGH COMMON WORDS FOR THESE
-
-**Dailies**
-The most common Generation of bosker, both by number and appearance outside of the bosks.  Dailies are used to the outside world, and often spend time travelling to assess trees, deliver *rekordplaats,* serve the local town or community, and hone their skills in aïnhaz.  The Dailies are identified by their "conventional" uniform of sturdy travelling clothes, although other boskers recognize them by their collar insignia.  Despite the name, most dailies don't actually leave the grove every day, and they are permitted to be gone from the grove indefinitely if on business.
+**Deistiches**
+The most common Generation of bosker, both by number and appearance outside of the bosks.  Deistiches (Dailies) are used to the outside world, and often spend time travelling to assess trees, deliver *rekordplaats,* serve the local town or community, and hone their skills in aïnhaz.  The Dailies are identified by their "conventional" uniform of sturdy travelling clothes, although other boskers recognize them by their collar insignia.  Despite the name, most dailies don't actually leave the grove every day, and they are permitted to be gone from the grove indefinitely if on business.
 
 *Generation 1:* You spend your days walking and doing forestry.  Gain +2 on nature and survival checks and natural terrain features don't change your movement speed.
 *Generation 2:* You're in touch with the wilds and have seen all their faces.  Anyone trying to track your movement through the wilds has disadvantage on the check and you have +4 on saving throws against "nature" opponents (sell me on it). Gain a teamwork feat.
@@ -339,8 +337,8 @@ The most common Generation of bosker, both by number and appearance outside of t
 *Generation 4:* You have the hang of this spellcasting thing and no longer have disadvantage on "city" aïnhaz spells.  Gain a teamwork feat.
 *Elder Lore:* You have just been doing this longer than anyone else and are flat out better at it.  5/day you can choose any dice result and double it.  You may only double the result of *one* die, and you cannot "force" criticals.  
 
-**Tenners**
-Tenners are commonly the recordkeepers of a bosk, and spend their days processing *rekordplaats,* cross-referencing history, and taking detailed measurements of the *plaats* themselves to assess historical trends.  Tenners are often seen in *rekordplaat* convoys and routinely switch groves to help align histories.  Perhaps strangely, the Tenners are the most martial of the boskers, and break from their scribing and sawing to learn the intricacies of staff combat.  They *really* don't want freshmen Tenners dying on their first trip, so the first 10 years are usually heavy on the combat, light on the scribing.  Tenners are recognized by their deep green uniforms, either scribing robes or long padded armor.
+**Dessenia**
+Dessenia (Tenners) are commonly the recordkeepers of a bosk, and spend their days processing *rekordplaats,* cross-referencing history, and taking detailed measurements of the *plaats* themselves to assess historical trends.  Tenners are often seen in *rekordplaat* convoys and routinely switch groves to help align histories.  Perhaps strangely, the Tenners are the most martial of the boskers, and break from their scribing and sawing to learn the intricacies of staff combat.  They *really* don't want freshmen Tenners dying on their first trip, so the first 10 years are usually heavy on the combat, light on the scribing.  Tenners are recognized by their deep green uniforms, either scribing robes or long padded armor.
 
 *Generation 1:* Wake up, study, write, fight, repeat.  Gain +2 on knowledge checks.  Get a bonus feat.
 *Generation 2:* Seasoned caravan guard, budding scholar.  When camping, you cannot be surprised and your Cull and Tend dice become d10 instead of d8.  Gain proficiency in two new skills, and your bonus to history checks increases to +4.
@@ -348,8 +346,8 @@ Tenners are commonly the recordkeepers of a bosk, and spend their days processin
 *Generation 4:* Lore master.  You make knowledge checks with advantage.  Your cull and tend dice becomes d12.  You have a +4 bonus to spells that would befuddle you
 *Elder Lore:* You're at home in every grove and every road.  No natural phenomenon can break spell concentration, and you have advantage on all concentration rolls.  You and your party travel twice as fast overland.
 
-**Hundreders**
-The Hundreders are the tree keepers.  While the Dailies investigate trees in the wild, the Hundreders are charged with the sacred duty of preserving the grand trees in the bosk itself.  Natural healers and herbalists. It is rare to see a Hundreder out of the grove unless there is important business with the trees.  Most people have never seen a Hundreder outside of a bosk, but other boskers recognize them by their collar insignia.
+**Leuwens**
+The Leuwens (Hundreders) are the tree keepers.  While the Deistiches investigate trees in the wild, the Hundreders are charged with the sacred duty of preserving the grand trees in the bosk itself.  Natural healers and herbalists. It is rare to see a Leuwen out of the grove unless there is important business with the trees *or* someone is in need of healing in the local community.  Then, Leuwens are conveyed out in a *rydtuch* to provide healing.  As Leuwens are often kind and personable, they typically get quite a lot of "forbidden" exposure to the outside world.  This may be the reason why Leuwen have the least stringent demands surrounding contributing to the histories, but the boskers will not confirm this.  Other boskers recognize them by their collar insignia.
 
 *Generation 1:* Get Tend 1 immediately, and get Tend 2 at level 3, and so on until Empowered Tend at levl 15.  You receive a +2 to checks made to diagnose and heal diseases, in both people and trees.  After all, the grove must preserve its keepers. 
 *Generation 2:* Mastery comes slowly but pays its dividends.  You lose the ability to Cull, but your Tend dice becomes d10 and you gain a teamwork feat.
@@ -357,8 +355,8 @@ The Hundreders are the tree keepers.  While the Dailies investigate trees in the
 *Generation 4:* No one knows trees better than you.  Enemies have disadvantage against your "forest" aïnhaz spells, gain a teamwork feat.  Receive a vision from Thaja.
 *Elder Lore:* An elder Hundreder knows the the flow of life better than all but the most skills clerics and druids.  You gain Elder Lore at level 19 instead of 20.  When you heal by any means, you heal the maximum amount and may cost True Resurrection once per day without expending a spell slot.
 
-**Thousanders**
-The Thousanders are responsible for maintaining the intricate magical wards that preserve the trees and their keepers.  While the [[The People#Fad e Bosks|Fad e Bosks]] are only a few thousand years old, extant bosks or those reclaimed during or after [[The World#Frest lal Kahbir (Year 12,642 to 20,389)|Frest lal Kahbir]] can be tens of thousands of years old.  These old wisdoms are not learned quickly.  Most Thousanders live for their first thousand in a bosk, and then leave to spend the rest of their days travelling, contextualizing histories, sharing their knowledge, and lending their skills to local causes.  For this reason, it is not actually that uncommon to meet Thousanders, and they are typically recognized by their "old fashioned" apparel.  Even the habits of the bosks change.  Only naturally long-lived races are likely to see more than one thousand-year stint in a bosk.  
+**Millennia**
+The Millennia (Thousanders) are responsible for maintaining the intricate magical wards that preserve the trees and their keepers.  While the [[The People#Fad e Bosks|Fad e Bosks]] are only a few thousand years old, extant bosks or those reclaimed during or after [[The World#Frest lal Kahbir (Year 12,642 to 20,389)|Frest lal Kahbir]] can be tens of thousands of years old.  These old wisdoms are not learned quickly.  Most Thousanders live for their first thousand in a bosk, and then leave to spend the rest of their days travelling, contextualizing histories, sharing their knowledge, and lending their skills to local causes.  For this reason, it is not actually that uncommon to meet Millennia, and they are typically recognized by their "old fashioned" apparel.  Even the habits of the bosks change.  Only naturally long-lived races are likely to see more than one thousand-year stint in a bosk.  
 
 *Generation 1:* The magical training of the Thousanders will give you a leg up... someday.  Move the entire bosker spell table up one (so you get lvl 0 spells at lvl 3, and lvl 1 at lvl 6, etc.).  Yes, this does give you level 9 spells at level 16.
 *Generation 2:* You learn slowly but deeply.  Gain +4 on knowledge checks related to magic or magical topics.  If you Take 10, 15, or 20 on checks not related to combat or thievery, add +5 to these rolls.
@@ -382,24 +380,35 @@ Tend is a healing ability similar to a paladin's lay on hands, for light duty he
 Empowered tend moves tend from a single target heal to a multitarget heal.
 
 ###### Bosk Access
-Much like the Sahida, boskers have access to bosks where they can receive accommodations and healing.  Unlike the Sahida, they are far less likely to receive 
+Much like the Sahida, boskers have access to bosks where they can receive accommodations and healing.  Unlike the Sahida, they are far less likely to receive reinforcements.
 
 ### Wurder
 Wurders are rich and well equipped. Wurder is necessarily a multiclass, wherein you skip some levels in a class for items that grant fantastical abilities. In line with the wurders view that nearly everything of value has already been done better, there are quite a few smart wurders, but few among them are powerful wizards, preferring instead to use powerful artifacts or use their vast resources to copy scrolls in great number.
--get stuff based on your class 
--gives you access to upgraded weapons, armor, artifacts, scrolls, and straight up cash
--needs to be pretty good to warrant skipping a level in a class AND being a dick
--built in incentives to avoid taking like, 12 levels in "rich jackass"
+
+In general, taking a level in Wurder gives you:
+- Nice stuff based on your class 
+- Access to upgraded weapons, armor, artifacts, scrolls, and straight up cash
+- Access to Wurder convents and some mixed street cred
 #### Stats + Tables
 
-**ALIGNMENT:** 
-**HIT DIE:** 
-**SKILL RANKS PER LEVEL:** 
+**ALIGNMENT:** Any
+**HIT DIE:** Whatever your base class is
+**SKILL RANKS PER LEVEL:** Whatever your base class is
 ###### Ability Tables
-
+Just like a standard multiclass, taking a level in Wurder postpones the development of your main class.  You do not, however, get a separate table to keep track of for Wurder, as I think you're unlikely to take more than 3 levels in it.
 #### Class Features
 ###### Weapon and Armor Proficiency
+Levels in Wurder do not contribute to any proficiencies.
 ###### Spells
+Levels in Wurder do not teach you any spells.
+###### Bonus Languages
+Language study is the hallmark of the [[The People#Fad e Wurds|Fad e Wurds]] and no aspiring or trained wurder would be caught dead without a good grasp of languages.  Immediately gain proficiency in High Common and Low Common if you do not already have them.  Each level in wurder grants 2 bonus languages.
+###### Salaris
+Wurders are accorded a generous salary.  Per level, you receive twice the amount listed in https://www.d20pfsrd.com/classes/character-advancement/ as your highest non-wurder level.  For example, you have 5 levels in wizard, and take a level in wurder; you gain 10,500 x 2 = 21,000 gp.  As money becomes more and more meaningless as levels go on, the truly ludicrous inflation associated with this becomes less powerful than it seems.  Additionally, [[The World#Thaja|Thaja]] is a world where money means less than other worlds.
+###### Pakhus Access
+
+###### Enchantment Services
+
 ### Blank (temp name)
 Whole class is themed around those rivers that go underground, never to be seen again
 
