@@ -406,11 +406,12 @@ Language study is the hallmark of the [[The People#Fad e Wurds|Fad e Wurds]] and
 ###### Salaris
 Wurders are accorded a generous salary.  Per level, you receive twice the amount listed in https://www.d20pfsrd.com/classes/character-advancement/ as your highest non-wurder level.  For example, you have 5 levels in wizard, and take a level in wurder; you gain 10,500 x 2 = 21,000 gp.  As money becomes more and more meaningless as levels go on, the truly ludicrous inflation associated with this becomes less powerful than it seems.  Additionally, [[The World#Thaja|Thaja]] is a world where money means less than other worlds.
 ###### Pakhus Access
-
+Access to a list of all of many of my cool enchanted items that you may take at your leisure.  Some are gated behind multiple levels for reasons of things being egregiously OP.
 ###### Enchantment Services
+Should the Pakhus not have what you desire, you can also receive enchantment services for weapons and armor.
 
-### Blank (temp name)
-Whole class is themed around those rivers that go underground, never to be seen again
+### Blank
+Do you hate spellcasting as much as I do?  Is the icy stillness within you constantly threatening to overwhelm your other tendencies?  Do you want to play a a thematically weird class which other tabletops explicitly avoid including because it's a "no fun allowed" sort of build?  Blank is the class for you.  A monk-like antisorcerer whose peculiar abilities impact their personality as much as the other way around, the Blank is a walking counterspell.  Not as powerful as a mageslayer as a well built Magus, but tons of utility.  Think of the Blank as a con-based spellsink.
 
 Con-based spellsink.  Key abilities:
 -has to be physically hit by a spell to sink it
@@ -422,6 +423,8 @@ Con-based spellsink.  Key abilities:
 -should have some other abilities that are useful, probably auras and such. Proximity based spellcasting debuffs and things
 -at some low level these stop applying to friendlies
 -ability names like "deep reservoirs" or "bottomless mind", monk-coded
+
+Whole class is themed around those rivers that go underground, never to be seen again
 #### Stats + Tables
 
 **ALIGNMENT:** 
@@ -478,7 +481,11 @@ Con-based spellsink.  Key abilities:
 ###### Weapon and Armor Proficiency
 ###### Spells
 ### Fleshweaver
-Like summoner but you're a surgeon making a terrifying war beast.
+Like summoner but you're a surgeon making a terrifying war beast.  The only class I'm going to make which has a summon because I hate balancing them.  Play a Fleshweaver if you want a cool beastie and want the black-market surgeon vibes.  
+
+If you are interested in the suliuqanarmik, the true-bred beasts of war that have made Kakatoya famous, consider playing the pathfinder Hunter class, and talk to me about a war beast companion!
+
+
 #### Stats + Tables
 
 **ALIGNMENT:** 
